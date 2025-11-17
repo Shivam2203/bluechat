@@ -8,7 +8,7 @@
 
 import Foundation
 import Compression
-
+//compro for LZ4 algo
 struct CompressionUtil {
     // Compression threshold - don't compress if data is smaller than this
     static let compressionThreshold = 100 // bytes
